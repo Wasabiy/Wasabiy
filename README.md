@@ -15,7 +15,6 @@
 
 <p align="left">I'm Syed Wahib Hussain, an IT graduate with a passion for game development and exploration. Always eager to learn and share knowledge!<br><br>As a recent IT graduate, I'm diving headfirst into the tech world. I enjoy coding and constantly seeking to learn new technologies and enhance my skills.</p>
 
-###
 <h2>Some of the technologies I've gotten to work with over time</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -48,9 +47,6 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
 </div>
-
-###
-
 <br clear="both">
 <h2> You can find me here! Contact me on Linkedin or Gmail! <3</h2>
 <div align="left">
