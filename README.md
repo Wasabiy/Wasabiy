@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm @Wasabiy, also known as Wahib and I'm a IT graduate from NTNU, currenlty looking for work !</h2>
+<h2 align="left">Hi 👋! I'm @Wasabiy, also known as Wahib and I'm a IT graduate from NTNU, currently looking for work !</h2>
 
 ###
 
