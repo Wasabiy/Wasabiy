@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm @Wasabiy, also known as Wahib and I'm a IT graduate from NTNU, currently looking for work !</h2>
+<h2 align="left">Hi 👋! I'm @Wasabiy, also known as Wahib and a proud fullstack developer!</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Syed Wahib Hussain, an IT graduate with a passion for game development and exploration. Always eager to learn and share knowledge!<br><br>As a recent IT graduate, I'm diving headfirst into the tech world. I enjoy coding and constantly seeking to learn new technologies and enhance my skills.</p>  <a href="_N_CV_Syed_Wahib_Hussain.pdf">Check out my CV!</a>
+<p align="left">I'm Syed Wahib Hussain, a developer with a passion for game development, new technology, optimization and problem solving.. Always eager to learn and share knowledge!<br><br>As a recent IT graduate, I'm diving headfirst into the tech world. I enjoy coding and constantly seeking to learn new technologies and enhance my skills.</p>  <a href="_N_CV_Syed_Wahib_Hussain.pdf">Check out my CV!</a>
 
 <h2>Some of the technologies I've gotten to work with over time</h2>
 <div align="center">
